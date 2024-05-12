@@ -19,6 +19,6 @@ export const Auth = ({ type }: { type: "signup" | "signin" }) => {
 function LabelledInput({ label, placeholder, onChange}){
     return <div>
         <label for="first_Name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">First name</label>
-        <input type="text" id="first_name" class="bg-gray"
+        <input type="text" id="first_name" class="bg-gray" />
     </div>
 }
