@@ -21,7 +21,7 @@ export const Auth = ({ type }: { type: "signup" | "signin" }) => {
           </div>
         </div>
         <div className="pt-8">
-          <LabelledInput
+          {type === "signup" ?<LabelledInput
             label="Name"
             placeholder="Himanshu Kr..."
             onChange={(e) => {
@@ -30,7 +30,7 @@ export const Auth = ({ type }: { type: "signup" | "signin" }) => {
                 name: e.target.value,
               });
             }}
-          />
+          /> : null}
           <LabelledInput
             label="Username"
             placeholder="himanshukr072@gmail.com"
