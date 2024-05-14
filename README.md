@@ -1,4 +1,4 @@
-# mediumWebApp
+# Cloudflare React BlogSphere
 
 1. React in the frontend
 2. Cloudflare workers in the backend
