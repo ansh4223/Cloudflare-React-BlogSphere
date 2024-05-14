@@ -8,4 +8,3 @@
 6. Postgres as the database
 7. jwt for authentication
 
-![mediumLandingPage](https://github.com/ansh4223/mediumWebApp/assets/52701083/3569f9f1-29c7-48fb-9720-2ab2460cb04d)
