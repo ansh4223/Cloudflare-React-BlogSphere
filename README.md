@@ -1,4 +1,4 @@
-# mediumWebApp
+# Cloudflare React BlogSphere
 
 1. React in the frontend
 2. Cloudflare workers in the backend
@@ -7,3 +7,4 @@
 5. Prisma as the ORM, with connection pooling
 6. Postgres as the database
 7. jwt for authentication
+
